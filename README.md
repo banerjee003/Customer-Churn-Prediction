@@ -4,6 +4,12 @@
 </div>
 
 <p align="center">
+  <a href="https://churnshield-mwt7.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Demo-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Live Demo" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3.10%2B-blue?logo=python" alt="Python" />
   <img src="https://img.shields.io/badge/Streamlit-1.51-FF4B4B?logo=streamlit" alt="Streamlit" />
   <img src="https://img.shields.io/badge/Scikit--Learn-1.7-F7931E?logo=scikit-learn" alt="Scikit-Learn" />
@@ -11,6 +17,8 @@
   <img src="https://img.shields.io/badge/Database-SQL_Server-CC292B?logo=microsoft-sql-server" alt="SQL Server" />
   <img src="https://img.shields.io/badge/License-MIT-green" alt="License" />
 </p>
+
+> 🌐 **Live Application:** Explore the live deployment on Render at **[https://churnshield-mwt7.onrender.com/](https://churnshield-mwt7.onrender.com/)**
 
 An enterprise-grade, end-to-end Machine Learning solution designed to predict customer churn in the telecommunications sector. **ChurnShield** combines production-ready Scikit-Learn pipelines, hyperparameter-tuned ensemble models, Explainable AI (SHAP), and an interactive dark-themed Streamlit dashboard delivering real-time churn risk scores and data-backed retention strategies.
 
@@ -159,7 +167,7 @@ Run [schema.sql](file:///d:/Data%20Science/Customer%20Churn%20Prediction/schema.
 ```bash
 streamlit run app.py
 ```
-Open your browser at `http://localhost:8501`.
+Open your browser at `http://localhost:8501`, or access the live deployed instance at **[https://churnshield-mwt7.onrender.com/](https://churnshield-mwt7.onrender.com/)**.
 
 ---
 
