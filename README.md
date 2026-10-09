@@ -4,8 +4,12 @@
 </div>
 
 <p align="center">
+  <a href="https://customer-churn-prediction-churnshield.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_App-Streamlit_Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit Cloud" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://churnshield-mwt7.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Demo-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Live Demo" />
+    <img src="https://img.shields.io/badge/Live_App-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render Web Service" />
   </a>
 </p>
 
@@ -18,7 +22,9 @@
   <img src="https://img.shields.io/badge/License-MIT-green" alt="License" />
 </p>
 
-> 🌐 **Live Application:** Explore the live deployment on Render at **[https://churnshield-mwt7.onrender.com/](https://churnshield-mwt7.onrender.com/)**
+> 🌐 **Live Cloud Applications:**
+> - **Streamlit Community Cloud:** **[https://customer-churn-prediction-churnshield.streamlit.app/](https://customer-churn-prediction-churnshield.streamlit.app/)**
+> - **Render Web Service:** **[https://churnshield-mwt7.onrender.com/](https://churnshield-mwt7.onrender.com/)**
 
 An enterprise-grade, end-to-end Machine Learning solution designed to predict customer churn in the telecommunications sector. **ChurnShield** combines production-ready Scikit-Learn pipelines, hyperparameter-tuned ensemble models, Explainable AI (SHAP), and an interactive dark-themed Streamlit dashboard delivering real-time churn risk scores and data-backed retention strategies.
 
@@ -167,7 +173,7 @@ Run [schema.sql](file:///d:/Data%20Science/Customer%20Churn%20Prediction/schema.
 ```bash
 streamlit run app.py
 ```
-Open your browser at `http://localhost:8501`, or access the live deployed instance at **[https://churnshield-mwt7.onrender.com/](https://churnshield-mwt7.onrender.com/)**.
+Open your browser at `http://localhost:8501`, or test the live cloud instances on **[Streamlit Community Cloud](https://customer-churn-prediction-churnshield.streamlit.app/)** or **[Render](https://churnshield-mwt7.onrender.com/)**.
 
 ---
 
