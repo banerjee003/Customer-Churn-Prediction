@@ -1,0 +1,22 @@
+# Environment & Secrets
+.env
+*.env
+
+# Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# OS-specific & IDE Files
+.DS_Store
+Thumbs.db
+.vscode/
